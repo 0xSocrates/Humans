@@ -169,7 +169,7 @@ humansd tx staking create-validator \
 --pubkey $(humansd tendermint show-validator) \
 --moniker monikerismi \
 --chain-id testnet-1 \
---fees 250uheart
+--fees 5050uheart
 ```
 
 
