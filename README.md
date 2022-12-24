@@ -190,7 +190,7 @@ sudo rm -rf $HOME/humansd
 ```
 
 
-
+NOT: Bu testenetin ödülsüz olduğu açıklandı ancak bundan sonraki aşamada ödüllü olan testnete katılabilme şartları arasında bu testnete katılmanın da önemli bir yeri olacağı şeklinde bir söylem de bulunuyor. Testnete katılmayı düşünenlerin bu konuya da dikkat etmesi gerekiyor.
 
 
 
